@@ -21,7 +21,7 @@ I am interested in bridging the gap between robotics and character animation by 
 I am also interested in developing reinforcement learning algorithms for character control, legged locomotion, and motion generation.
 
 I received my M.Sc. in Mechanical Engineering, Control from Sharif University of Technology, Tehran, Iran.
-My master thesis was about development and control of an over-actuated quadcopter for aggressive maneuvers.
+My master thesis was about development and control of an over-actuated quadcopter for agile maneuvers.
 
 During my free time I like cycling, swimming and reading poetry. 
 I am also an astronomy fan and I like to go stargazing :telescope: whenever I have the chance.
