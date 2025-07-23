@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fzargarbashi.github.io/sitemap.xml
+Sitemap: https://fatemehzargar.com/sitemap.xml
