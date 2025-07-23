@@ -10,4 +10,4 @@ services:
       - .:/srv/jekyll
     environment:
       - JEKYLL_ENV=development
-    command: bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload
+#    command: bundle exec jekyll serve --host 0.0.0.0 --port 4000 --livereload
