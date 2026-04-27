@@ -356,6 +356,8 @@ filtered_bibtex_keywords:
     award_name,
     bibtex_show,
     blog,
+    button,
+    buttons,
     code,
     html,
     pdf,
