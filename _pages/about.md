@@ -29,6 +29,8 @@ motion generation.
 I received my M.Sc. in Mechanical Engineering, Control from [Sharif University of Technology](https://en.sharif.ir/),
 Tehran, Iran.
 During my master thesis I worked on the development and control of an over-actuated quadcopter for agile maneuvers.
+Prior to that I recieved a B.SC. in Mechanical Engineering from Sharif Univeristy of Technology.
+I also achieved a Gold Medal and the Creativity Award at the International Olympiad in Astronomy and Astrophysics ([IOAA](https://ioaastrophysics.org/)), held in Indonesia in 2015.
 
 In my free time, I like cycling, swimming and reading poetry.
 I am also an amateur astronomer and I like to go stargazing :telescope: whenever I have the chance.
