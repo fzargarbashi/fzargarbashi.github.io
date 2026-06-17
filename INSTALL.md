@@ -48,7 +48,7 @@ Using Docker to install Jekyll and Ruby dependencies is the easiest way.
 
 You need to take the following steps to get `al-folio` up and running on your local machine:
 
-- First, install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/).
+- First, install [Docker](https://docs.docker.com/get-docker/) and the [Docker Compose plugin](https://docs.docker.com/compose/install/).
 - Finally, run the following command that will pull the latest pre-built image from DockerHub and will run your website.
 
 ```bash
@@ -74,7 +74,7 @@ $ docker compose up --build
 
 > If you want to update jekyll, install new ruby packages, etc., all you have to do is build the image again using `--force-recreate` argument at the end of the previous command! It will download Ruby and Jekyll and install all Ruby packages again from scratch.
 
-If you want to use a specific docker version, you can do so by changing `latest` tag to `your_version` in `docker-compose.yaml`. For example, you might have created your website on `v0.10.0` and you want to stick with that.
+If you want to use a specific Docker image version, you can do so by changing the `image` tag in `docker-compose.yml` to `your_version`. For example, you might have created your website on `v0.10.0` and you want to stick with that.
 
 ## Local Setup with Development Containers
 
