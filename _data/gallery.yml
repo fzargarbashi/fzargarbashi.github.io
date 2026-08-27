@@ -1,0 +1,80 @@
+# Add new photographs here. Keep entries ordered from newest to oldest.
+- image: 2026-08-12-SolarEclipse-Diamond-After-c2.png
+  title: The Diamond Ring
+  alt: Solar Eclipse
+  date: "2026-08-12"
+  year: 2026
+  location: Albufera Natural Park, Valencia, Spain
+  description: Solar Eclipse
+
+- image: 2026-02-24-M42-M43-OrionNebula.png
+  title: Orion Nebula (M42 & M43)
+  alt: Orion Nebula, M42 and M43
+  date: "2026-02-24"
+  year: 2026
+  location: Zurich, Switzerland
+  description:
+
+- image: 2026-02-24-Moon.png
+  title: The Moon
+  alt: The Moon
+  date: "2026-02-24"
+  year: 2026
+  location: Zurich, Switzerland
+  description:
+
+- image: 2025-10-24-CometLemmon.png
+  title: A Tale of a Comet
+  alt: Comet Lemmon
+  date: "2025-10-24"
+  year: 2025
+  location: S-Charl, Switzerland
+  description: Comet Lemmon
+
+- image: 2025-10-24-Milkyway.png
+  title: The Milky Way
+  alt: The Milky Way
+  date: "2025-10-24"
+  year: 2025
+  location: S-Charl, Switzerland
+  description:
+
+- image: 2025-10-24-Mountain-SCharl-Switzerland.png
+  title: A Night in the Alps
+  alt: Mountain landscape in S-charl, Switzerland
+  date: "2025-10-24"
+  year: 2025
+  location: S-Charl, Switzerland
+  description:
+
+- image: 2025-08-08-Moon.png
+  title: Mooooooon
+  alt: The Moon
+  date: "2025-08-08"
+  year: 2025
+  location: Zurich, Switzerland
+  description: The Moon, Stacked
+
+- image: 2025-03-05-Moon.png
+  title: Moon over a House
+  alt: The Moon
+  date: "2025-03-05"
+  year: 2025
+  location: Zurich, Switzerland
+  description:
+
+- image: 2024-12-16-M31-Andromeda Galaxy.png
+  title: Andromeda Galaxy (M31) & M110
+  alt: Andromeda Galaxy, M31, and M110
+  date: "2024-12-16"
+  year: 2024
+  location: Zurich, Switzerland
+  description:
+
+- image: 2024-12-16-M42-M43-OrionNebula.png
+  title: Orion Nebula (M42 & M43)
+  alt: Orion Nebula, M42 and M43
+  date: "2024-12-16"
+  year: 2024
+  location: Zurich, Switzerland
+  description:
