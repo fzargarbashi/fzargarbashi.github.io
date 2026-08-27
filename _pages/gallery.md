@@ -82,8 +82,6 @@ nav_order: 2
   }
 </style>
 
-<p class="gallery-intro">A selection of astrophotography and night-sky observations, arranged chronologically. Select an image to view the full-resolution photograph.</p>
-
 {% assign gallery_years = site.data.gallery | group_by: 'year' %}
 {% for year_group in gallery_years %}
 
